@@ -1,0 +1,23 @@
+# RAG (Retrieval Augmented Generation)
+
+- [Agentic RAG with Embedding Gemma](agentic-rag-with-embedding-gemma.md) — Fully local agentic RAG with EmbeddingGemma and Llama 3.2
+- [Agentic RAG with Reasoning](agentic-rag-with-reasoning.md) — Watch the agent's step-by-step reasoning as it retrieves
+- [AI Blog Search (RAG)](ai-blog-search-rag.md) — Agentic search over blog content, built on LangGraph
+- [Autonomous RAG](autonomous-rag.md) — GPT-4o answers from your PDFs, falls back to web search
+- [Contextual AI RAG Agent](contextual-ai-rag-agent.md) — Managed RAG: datastore to grounded chat in minutes
+- [Corrective RAG (CRAG)](corrective-rag-crag.md) — Retrieval that grades itself and retries before answering
+- [Typed Agentic RAG with Pydantic AI](typed-agentic-rag-with-pydantic-ai.md) — Validated answers with exact citations, or a refusal when evidence is weak
+- [Deepseek Local RAG Agent](deepseek-local-rag-agent.md) — Local DeepSeek reasoning over your own documents
+- [Gemini Agentic RAG](gemini-agentic-rag.md) — Query rewriting and web fallback with Gemini Flash Thinking
+- [Hybrid Search RAG (Cloud)](hybrid-search-rag-cloud.md) — Keyword plus vector search feeding Claude
+- [Llama 3.1 Local RAG](llama-3-1-local-rag.md) — Chat with any webpage, fully offline
+- [Local Hybrid Search RAG](local-hybrid-search-rag.md) — Hybrid search with everything running on your machine
+- [Multimodal Agentic RAG](multimodal-agentic-rag.md) — Text, PDFs, images, audio, and video, answered with citations
+- [Local RAG Agent](local-rag-agent.md) — Llama 3.2 and Qdrant, no API keys required
+- [RAG-as-a-Service](rag-as-a-service.md) — A production RAG service in under 50 lines
+- [RAG Agent with Cohere](rag-agent-with-cohere.md) — Command R7B retrieval with web-search fallback
+- [Basic RAG Chain](basic-rag-chain.md) — The minimal retrieval pipeline, applied to pharma research
+- [RAG with Database Routing](rag-with-database-routing.md) — Routes each question to the right database automatically
+- [Vision RAG](vision-rag.md) — Ask questions about images and PDF pages with Embed-4
+- [RAG Failure Diagnostics Clinic](rag-failure-diagnostics-clinic.md) — Find out why your RAG pipeline is wrong, systematically
+- [Knowledge Graph RAG with Citations](knowledge-graph-rag-with-citations.md) — Multi-hop answers with verifiable source attribution

@@ -1,0 +1,32 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-llm-apps",
+  "uid": "01a1a884-ba8e-70a8-b554-06312a455467",
+  "title": "LLM Apps (Awesome KB)",
+  "description": "Source-attributed stub knowledge base of curated resources from Shubhamsaboo/awesome-llm-apps.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "Apache-2.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "awesome",
+    "ai",
+    "agents"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:Shubhamsaboo/awesome-llm-apps",
+    "file": "README.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "6c16b23f1bacd0fdf240bb5141ef45e59e82c306"
+  }
+}

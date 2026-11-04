@@ -1,0 +1,24 @@
+# Advanced AI Agents
+
+- [AI Home Renovation Agent with Nano Banana Pro](ai-home-renovation-agent-with-nano-banana-pro.md) — Photos of your space in, renovation plan and photorealistic renders out
+- [DevPulse AI - Multi-Agent Signal Intelligence](devpulse-ai-multi-agent-signal-intelligence.md) — Aggregates and scores technical signals into a daily intelligence digest
+- [AI Deep Research Agent](ai-deep-research-agent.md) — Comprehensive web research with the OpenAI Agents SDK and Firecrawl
+- [AI VC Due Diligence Agent Team](ai-vc-due-diligence-agent-team.md) — Multi-agent startup investment analysis with Gemini 3
+- [AI Research Planner & Executor (Google Interactions API)](ai-research-planner-executor-google-interactions-api.md) — Multi-phase research with stateful conversations and auto-generated infographics
+- [AI Consultant Agent](ai-consultant-agent.md) — Market analysis and strategy recommendations with live web research
+- [AI System Architect Agent](ai-system-architect-agent.md) — Architecture reviews using DeepSeek R1 reasoning plus Claude
+- [AI Financial Coach Agent](ai-financial-coach-agent.md) — Personalized budget, debt, and savings analysis
+- [AI Movie Production Agent](ai-movie-production-agent.md) — Script drafts and casting ideas from a one-line movie concept
+- [AI Investment Agent](ai-investment-agent.md) — Stock comparison reports built on Yahoo Finance data
+- [Earnings Call Analyst Agent](earnings-call-analyst-agent.md) — Turns YouTube earnings calls into a playback-synced analyst workspace
+- [AI Health & Fitness Agent](ai-health-fitness-agent.md) — Tailored diet and workout plans from your goals
+- [AI Product Launch Intelligence Agent](ai-product-launch-intelligence-agent.md) — Go-to-market intelligence on competitor launches
+- [AI Fraud Investigation Agent](ai-fraud-investigation-agent.md) — Cross-references public records to flag facilities that don't add up
+- [AI Journalist Agent](ai-journalist-agent.md) — Researches, writes, and edits articles on any topic
+- [AI Mental Wellbeing Agent](ai-mental-wellbeing-agent.md) — A coordinated agent team for mental health support plans
+- [AI Meeting Agent](ai-meeting-agent.md) — Context, industry insights, and strategy briefs before you walk in
+- [AI Self-Evolving Agent](ai-self-evolving-agent.md) — Agents that rewrite their own workflows with EvoAgentX
+- [AI Sales Intelligence Agent Team](ai-sales-intelligence-agent-team.md) — Generates competitive sales battle cards in real time
+- [AI Social Media News and Podcast Agent](ai-social-media-news-and-podcast-agent.md) — Curates your trusted sources into briefs and generated podcasts
+- [Openwork - Open Browser Automation Agent](openwork-open-browser-automation-agent.md) — Open-source agent that operates a real browser
+- [Trust-Gated Multi-Agent Research Team](trust-gated-multi-agent-research-team.md) — Every agent verified, every action in a hash-chained audit trail
